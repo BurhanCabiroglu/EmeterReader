@@ -1,0 +1,6 @@
+include ':app'
+rootProject.name = "My Application"
+include ":project"
+include ":mobitprobelibrary"
+include ":nvnm2mapi"
+include ":nvnm2mcj"

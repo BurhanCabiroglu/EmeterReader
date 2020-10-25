@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="connectiontext">No Connection</string>
+    <string name="printer">Printer : </string>
+    <string name="clear">stop</string>
+    <string name="print">prınt</string>
+    <string name="read">read</string>
+</resources>
